@@ -1,3 +1,7 @@
+local Fluent = loadstring(game:HttpGet("https://raw.githubusercontent.com/HHuyer/super-duper-potato/main/fileup"))()
+local SaveManager = loadstring(game:HttpGet("https://raw.githubusercontent.com/dawid-scripts/Fluent/master/Addons/SaveManager.lua"))()
+local InterfaceManager = loadstring(game:HttpGet("https://raw.githubusercontent.com/dawid-scripts/Fluent/master/Addons/InterfaceManager.lua"))()
+--------------------------------------------------------------------------------------------------------------------------------------------
 local Window = Fluent:CreateWindow({
     Title = "Huh Hub",
     TabWidth = 160,
